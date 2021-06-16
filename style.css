@@ -1,0 +1,26 @@
+.heading {
+    width: 100%;
+    text-align: left;
+    margin: 0px;
+    font-size: 23px;
+}
+
+.heading button {
+    float: right;
+    border: 1px solid white;
+}
+
+#start,
+#status,
+#restart {
+    font-size: 22px;
+}
+.copyright-footer{
+    width: 100%;
+    line-height: 3;
+    position: fixed;
+    text-align: center;
+    color: grey;
+    bottom: 0;
+    background-color: white;
+}
